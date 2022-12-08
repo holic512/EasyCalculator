@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QtWidgetsApplication">
+        <file>image/ios.jpg</file>
+        <file>image/bg.jpg</file>
+        <file>image/tui.png</file>
+    </qresource>
+</RCC>
